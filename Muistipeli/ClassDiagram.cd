@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Muistipeli.MuistipeliGame">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAABAAAAAAAARAAAAAADAAAAAAAAAAAABA=</HashCode>
+      <FileName>Muistipeli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Muistipeli.Mark">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Mark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Muistipeli.Marks">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAACAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Marks.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Muistipeli.IBoard" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBoard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
